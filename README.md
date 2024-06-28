@@ -19,8 +19,8 @@
 I am a Junior Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from France.
 - 👋 Hi, I’m @agesset
 - 👀 I’m interested in programmation 👨‍💻 cybersecurity 🔐💪
-- 🌱 I’m currently learning PHP.
-- 👉💞️ I’m looking to collaborate on projects using JS.
+- 🌱 I’m currently learning Angular.
+- 👉💞️ I’m looking to collaborate on projects using Angular.
 - 📫 You can reach me of my mail ✉️ adress: armandessetcheou@gmail.com.
 
 - :zap: In my free time, I play Basketball and read tech articles.
