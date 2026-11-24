@@ -1,53 +1,54 @@
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
+
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+<h1 align="center">Hi, I'm Armand</h1>
+<p align="center">Cybersecurity student building, breaking and fixing web apps</p>
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/armand-essetcheou/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.root-me.org/amg-961914">
+    <img src="https://img.shields.io/badge/Root--Me-black?style=for-the-badge" alt="Root-Me Badge"/>
   </a>
 </div>
+
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=agesset&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=agesset&style=flat-square&color=blue" alt="Profile views"/>
 </div>
 
-
-### :woman_technologist: About Me :
-- 👋 Hi, I’m @agesset
-- 👀 I’m interested in programmation 👨‍💻 cybersecurity 🔐💪
-- 🌱 I’m currently learning Angular.
-- 👉💞️ I’m looking to collaborate on projects using Angular.
-- 📫 You can reach me of my mail ✉️ adress: armandessetcheou@gmail.com.
-
-- :zap: In my free time, I play Basketball and read tech articles.
+### About Me
+- Engineering student in Computer Science and Networks at INSA Toulouse
+- Passionate about cybersecurity: web security, network analysis and DevSecOps
+- I practice on Root-Me: [my profile](https://www.root-me.org/amg-961914)
+- Reach me by email: armandessetcheou@gmail.com
 
 
+### Featured Project
+**[VulnBank](https://github.com/agesset/vulnbank)**: an intentionally vulnerable banking web app (Flask) used to practice the full security cycle.
+- Exploited and fixed SQL injection, stored and reflected XSS, and IDOR
+- Wrote regression tests with pytest
+- Built a DevSecOps pipeline with GitHub Actions: SAST (Semgrep), secrets scanning (Gitleaks) and dependency scanning (Trivy)
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 </div>
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=agesset&theme=dark)](https://git.io/streak-stats)
+**Security tools:** Wireshark, tcpdump, Nmap, Semgrep, Gitleaks, Trivy, OWASP ZAP
 
+### My Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=agesset&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agesset&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<!---
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---->
-<!---
-agesset/agesset is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
